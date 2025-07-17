@@ -1,0 +1,1 @@
+The main purpose of this project is to utilise and analyse MODIS (Moderate Resolution Imaging Spectroradiometer) satellite data to identify the types of fire occurences and their potential reasons based on various parameters. This aims to aid in an enhanced monitoring and better prevention of fire hazards.  

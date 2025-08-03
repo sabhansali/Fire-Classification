@@ -1,2 +1,2 @@
 The main purpose of this project is to utilise and analyse MODIS (Moderate Resolution Imaging Spectroradiometer) satellite data to identify and classify the types of fire occurences and their potential causes based on various parameters. This aims to aid in an enhanced monitoring, response and prevention of fire hazards.  
-Google drive Link for the model (.pkl file): https://drive.google.com/file/d/1ObXdY0xo613nctl9xVpF9Ivs-_aaQoGR/view?usp=sharing
+Google Drive Link for the model (best_fire_detection_model.pkl file): https://drive.google.com/file/d/1ObXdY0xo613nctl9xVpF9Ivs-_aaQoGR/view?usp=sharing
